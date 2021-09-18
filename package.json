@@ -1,0 +1,23 @@
+{
+  "name": "automating-draw",
+  "version": "1.0.0",
+  "description": "script for automating draw on sneakers website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fafa-a/automating-draw.git"
+  },
+  "author": "fafa-a & GomesBorisDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fafa-a/automating-draw/issues"
+  },
+  "homepage": "https://github.com/fafa-a/automating-draw#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.14.1"
+  }
+}
